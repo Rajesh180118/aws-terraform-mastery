@@ -1,0 +1,1 @@
+bucket_name = "mys3bucketbyraja1801testingvariable-001tfvars"
